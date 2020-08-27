@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Animal Trading Cards</title>
+	<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+	<div class="card">
+		<h1 class="title">Polar Bear</h1>
+		<img class="images" src="images/polar bear.jpg" alt="Polar bear Numbers Still On The Rise">
+		<div class="card-information">
+			<p class="fact">Polar bears live only in the northern Arctic where they spend most of their time on ice floes. They are the largest land carnivore in the world and the largest of the bear family.</p>
+			<ul class="list">
+				<li><span class="Label">Scientific Name</span>:Marritme bear </li>
+				<li><span class="Label">Average length</span>:2.2 to 2.5 m </li>
+				<li><span class="Label">Average lifespan</span>:25 to 30 years</li>
+				<li><span class="Label">Habitat</span>:Arctic region</li>
+			</ul>
+			<p>Polar bear, (Ursus maritimus), also called white bear, sea bear, or ice bear, great white northern bear found throughout the Arctic region. The polar bear travels long distances over vast desolate expanses, generally on drifting oceanic ice floes, searching for seals, its primary prey.It has no natural predators and knows no fear of humans, making it an extremely dangerous animal.</p>
+		</div>
+	</div>
+</body>
+</html>
